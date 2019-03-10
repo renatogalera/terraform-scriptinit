@@ -1,0 +1,6 @@
+[31mThe state file either has no outputs defined, or all the defined
+outputs are empty. Please define an output in your configuration
+with the `output` keyword and run `terraform refresh` for it to
+become available. If you are using interpolation, please verify
+the interpolated value is not empty. You can use the 
+`terraform console` command to assist.[0m[0m
