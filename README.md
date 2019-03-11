@@ -6,7 +6,7 @@ cd terraforma-scriptinit
 sudo bash install.sh
 ```
 
-## Script de provisionamento didático utilizando servidores EC2 na Amazon.
+## Script de provisionamento didático utilizando servidores EC2 na AWS Amazon.
 
 
 **Desenvolvido usando Shell Script, AWS-CLI e Terraform.**
